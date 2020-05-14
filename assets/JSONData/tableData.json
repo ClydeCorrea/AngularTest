@@ -1,0 +1,53 @@
+[
+    {
+      "FLOOR": "FLOOR 1-FLOOR 5",
+      "C_BOOKED": 8,
+      "C_UNBOOKED": 11,
+      "BOOKED": 2,
+      "C_HOLD": 0,
+      "POSSESSION": 0,
+      "AGREEMENT_NOT_DONE": 0,
+      "AGREEMENT_DONE": 9,
+      "LEASED": 0,
+      "SOLD": 0,
+      "VACANT": 0,
+      "UNBOOKED": 18,
+      "CANCELLED": 0,
+      "SHOP": 0,
+      "FLOOR_LIST": "'FLOOR-1', 'FLOOR-1', 'FLOOR-1', 'FLOOR-2', 'FLOOR-2', 'FLOOR-2', 'FLOOR-2', 'FLOOR-3', 'FLOOR-3', 'FLOOR-3', 'FLOOR-3', 'FLOOR-4', 'FLOOR-4', 'FLOOR-4', 'FLOOR-4', 'FLOOR-5', 'FLOOR-5', 'FLOOR-5', 'FLOOR-5'"
+    },
+    {
+      "FLOOR": "FLOOR 6-FLOOR 10",
+      "C_BOOKED": 8,
+      "C_UNBOOKED": 13,
+      "BOOKED": 1,
+      "C_HOLD": 0,
+      "POSSESSION": 0,
+      "AGREEMENT_NOT_DONE": 0,
+      "AGREEMENT_DONE": 9,
+      "LEASED": 0,
+      "SOLD": 0,
+      "VACANT": 0,
+      "UNBOOKED": 18,
+      "CANCELLED": 0,
+      "SHOP": 0,
+      "FLOOR_LIST": "'FLOOR-10', 'FLOOR-10', 'FLOOR-10', 'FLOOR-10', 'FLOOR-10', 'FLOOR-6', 'FLOOR-6', 'FLOOR-6', 'FLOOR-6', 'FLOOR-7', 'FLOOR-7', 'FLOOR-7', 'FLOOR-7', 'FLOOR-8', 'FLOOR-8', 'FLOOR-8', 'FLOOR-8', 'FLOOR-9', 'FLOOR-9', 'FLOOR-9', 'FLOOR-9', 'FLOOR-9'"
+    },
+    {
+      "FLOOR": "FLOOR 11+",
+      "C_BOOKED": 0,
+      "C_UNBOOKED": 16,
+      "BOOKED": 0,
+      "C_HOLD": 0,
+      "POSSESSION": 0,
+      "AGREEMENT_NOT_DONE": 0,
+      "AGREEMENT_DONE": 0,
+      "LEASED": 0,
+      "SOLD": 0,
+      "VACANT": 0,
+      "UNBOOKED": 27,
+      "CANCELLED": 0,
+      "SHOP": 0,
+      "FLOOR_LIST": "'FLOOR-11', 'FLOOR-11', 'FLOOR-11', 'FLOOR-12', 'FLOOR-12', 'FLOOR-12', 'FLOOR-12', 'FLOOR-13', 'FLOOR-13', 'FLOOR-13', 'FLOOR-13', 'FLOOR-14', 'FLOOR-14', 'FLOOR-14', 'GROUND FLOOR', 'GROUND FLOOR'"
+    }
+  ]
